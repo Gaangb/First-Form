@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(rgba(255, 255, 0, 0.3), rgba(255, 255, 0, 0.3)), url(img/fundo.jpeg) no-repeat  center scroll;
+    background: linear-gradient(rgba(255, 255, 0, 0.3), rgba(255, 255, 0, 0.3)), url(./img/fundo.jpeg) no-repeat  center scroll;
     background-attachment: fixed;
     background-size: cover;    
 }
